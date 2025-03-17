@@ -51,5 +51,5 @@ This project is licensed under the MIT License.
 ---
 
 ### 🔗 Connect with Me
-📩 Email: prakritiojha04!gmail.com  
+📩 Email: prakritiojha04@   gmail.com  
 🔗 GitHub: Prakriti0426  
