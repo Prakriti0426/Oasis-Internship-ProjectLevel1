@@ -5,7 +5,7 @@ This repository contains multiple Data Analysis & Machine Learning projects, cov
 
 ## 📂 Project List
 
-** Level 2 Projects
+** Level 1 Projects
 1. **Retail Sales Data Analysis** - EDA on retail sales data to identify trends.
 2. **Customer Segmentation using K-Means** - Clustering customers based on attributes.
 3. **Airbnb Data Cleaning** - Preprocessing Airbnb NYC dataset for analysis.
@@ -49,7 +49,7 @@ python Project3.py  # For Airbnb Data Cleaning
 ```
 
 ## 📊 Key Features
-✅ Level 2
+✅ Level 1
 - **Retail Sales EDA**: Identifies product & customer trends.
 - **Customer Segmentation**: Uses K-Means to group customers.
 - **Data Cleaning**: Processes Airbnb dataset for better insights.
